@@ -13,6 +13,7 @@
 
     HTML5
     CSS3
+    ReactJS
     jQuery
     Twitter Bootstrap
     RequireJS

@@ -1,7 +1,7 @@
 {
   "name": "clientside-playground",
   "version": "0.0.0",
-  "description": "A simple starter project for client-side HTML/CSS/Javascript",
+  "description": "A simple starter project for client-side HTML/CSS/Javascript using ReactJS",
   "private": true,
   "main": "index.js",
   "scripts": {

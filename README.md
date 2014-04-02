@@ -1,6 +1,6 @@
 # Client-side web application playground
 
-This is a brief NodeJS/Grunt starter project, or a simple bootstrap, for web developers who just want to start simple from scratch. No fluff, just start coding right away on HTML5/CSS and Javascript as soon as you clone the project!
+This is a brief ReactJS/RequireJS starter project, or a simple bootstrap, for web developers who just want to start simple from scratch. No fluff, just start coding right away on HTML5/CSS and Javascript as soon as you clone the project!
 
 ## How To Dev
 
@@ -9,11 +9,11 @@ This is a brief NodeJS/Grunt starter project, or a simple bootstrap, for web dev
 3. Install dependencies with `npm install`
 4. Run `grunt` to start server and browse to index
 
-To get started look at `www/index.html` and `www/scripts/main.js`.
+To get started look at `www/index.html` and `www/scripts/main.js`. There is a simple ReactJS component written in JSX at `www/scripts/timer.jsx.js`.
 
 # Notes for Web Devs
 
-This project is set up to use [RequireJS](http://requirejs.org/) and default [Twitter Bootstrap](http://getbootstrap.com/) from when you clone this repository.
+This project is set up to use [ReactJS](http://facebook.github.io/react/index.html), [RequireJS](http://requirejs.org/) and default [Twitter Bootstrap](http://getbootstrap.com/) from when you clone this repository.
 
 The [Gruntfile](http://gruntjs.com/sample-gruntfile) is set up to the [watch task](https://github.com/gruntjs/grunt-contrib-watch). Javascript files are monitored by default and are running through [JSHint](http://www.jshint.com/).
 

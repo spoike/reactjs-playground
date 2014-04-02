@@ -26,7 +26,7 @@ module.exports = function(grunt) {
             }
         },
         jshint: {
-            scripts: ['<%= watch.scripts.files %>'],
+            scripts: ['<%= watch.scripts.files %>', '!www/scripts/**/*.jsx.js'],
             gruntfile: ['<%= watch.gruntfile.files %>']
         }
     });
